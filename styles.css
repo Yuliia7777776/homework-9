@@ -1,0 +1,253 @@
+div.header-logo {
+    display: flex;
+    gap: 11.94px;
+  }
+  
+  img.responsive-image {
+    width: 33.83px;
+    height: 31.94px;
+    padding: 76px 6px 24.03px 120px;
+  }
+  
+  h2 {
+    font-family: Montserrat;
+    height: 70px;
+    color: rgb(0, 0, 0);
+    padding: 60px 150px 24px 6px;
+  }
+  
+  .li {
+    font-size: 16px;
+    font-family: Montserrat;
+  }
+  
+  ul.complex_list {
+    display: flex;
+    color: hwb(23 15% 5%);
+    flex-flow: row nowrap;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .menu {
+    flex-grow: 1;
+  }
+  
+  div.wrapper {
+    height: 80px;
+    width: 1440px;
+    left: 0px;
+    top: 1px;
+    border-radius: 0px;
+  }
+  
+  div.header-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1200px;
+    height: 46px;
+  }
+  
+  section {
+    height: 495px;
+    width: 1200px;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+    left: 120px;
+    top: 151px;
+  }
+    
+  .li {
+    font-size: 16px;
+    font-family: Montserrat;
+    line-height: 1;
+    list-style-type: none;
+  }
+    
+    ul.complex_list {
+      display: flex;
+      color: hwb(23 15% 5%);
+      flex-flow: row nowrap;
+      list-style: none;
+      gap: 20px;
+  }
+    
+  .product {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #f51515;
+  }
+  
+  .product:hover {
+    text-decoration: underline hsl(271, 100%, 50%);
+  }
+  
+  .customers {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #000000; 
+  }
+  
+  .customers:hover {
+    text-decoration: underline hsl(271, 100%, 50%);
+  }
+  
+  .pricing {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #000000;
+  }
+  
+  .pricing:hover {
+    text-decoration: underline hsl(271, 100%, 50%);
+  }
+  
+  .resources {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #000000;
+  }
+  
+  .resources:hover {
+    text-decoration: underline hsl(271, 100%, 50%);
+  }
+  
+  .button1 {
+    height: 46px;
+    width: 110px;
+    background-color: #FFFFFF;
+    margin: 17px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px black solid; 
+  }
+  
+  .button1:hover {
+    background-color: #4a2fcf;
+  }
+  
+  .button2 {
+    height: 46px;
+    width: 110px;
+    background-color: #ff9900;
+    margin: 17px;
+    cursor: pointer;
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: #ffffff;
+  }
+  
+  .button2:hover {
+    background-color:#11f233;
+  }
+  
+  .First-screen {
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 495px;
+    top: 151px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 56px; 
+    left: 120px;
+    margin: 0 auto;
+  }
+  
+  .First-screen-text {
+    width: 500px;
+    height: 110px;
+    left: 0px;
+    top: 97px;
+  }
+  
+  h1 {
+    font-family: Montserrat;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    color: #2F281E;
+    top: 97px;
+  }
+  
+  h1:hover {
+    text-decoration: underline rgb(0, 255, 72);
+  }
+  
+  .first-screen-text_content {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Montserrat;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #544837;
+  }
+  
+  .First-screen-text_content:hover {
+    text-decoration: underline blue;
+  }
+  
+  .First-screen-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 40px;
+    background: #ff9900;
+    border-radius: 4px;
+    border-color: blueviolet;
+    text-align: center;
+    color: #FFFFFF;
+    width: 180px;
+    height: 50px;
+    font: Poppins;
+    size: 16px;
+  }
+  
+  .First-screen-button:hover {
+    background-color: #11f233;
+  }
+  
+  p.text-button {
+    font-family: "Poppins";
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+  }
+  
+    .img.friends {
+    height: 438px;
+    width: 498px;
+    top: 29px;
+    height: 120px;
+  }
+  
+  .First-screen1 {
+    display: inline-block;
+  }
